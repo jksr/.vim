@@ -1,0 +1,11 @@
+#!/bin/bash
+git submodule add https://github.com/msanders/snipmate.vim.git bundle/snipmate
+git submodule add https://github.com/fholgado/minibufexpl.vim.git bundle/minibufexpl
+git submodule add https://github.com/vim-scripts/TaskList.vim.git bundle/tasklist
+git submodule add https://github.com/vim-scripts/af.vim.git bundle/af
+git submodule add https://github.com/Lokaltog/vim-powerline.git bundle/vim-powerline
+git submodule add https://github.com/vim-scripts/taglist.vim.git bundle/taglist
+git submodule add https://github.com/vim-scripts/taglist.vim.git bundle/taglist
+git submodule add https://github.com/Lokaltog/vim-powerline.git bundle/vim-powerline
+git submodule add https://github.com/vim-scripts/scratch.vim.git bundle/scratch
+git submodule add https://github.com/vim-scripts/The-NERD-tree.git bundle/nerdtree
