@@ -9,3 +9,4 @@ git submodule add https://github.com/vim-scripts/taglist.vim.git bundle/taglist
 git submodule add https://github.com/Lokaltog/vim-powerline.git bundle/vim-powerline
 git submodule add https://github.com/vim-scripts/scratch.vim.git bundle/scratch
 git submodule add https://github.com/vim-scripts/The-NERD-tree.git bundle/nerdtree
+git submodule update --init --recursive
